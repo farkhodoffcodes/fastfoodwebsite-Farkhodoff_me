@@ -1,3 +1,3 @@
-https://ziyodullofastfood1.netlify.app
+https://farkhodofffastfood.netlify.app
 
 Fast Food Mini Website in React js
